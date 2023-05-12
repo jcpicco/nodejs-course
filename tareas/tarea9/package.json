@@ -1,0 +1,14 @@
+{
+  "name": "tarea9",
+  "version": "1.0.0",
+  "description": "Tarea 9 sobre errores",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "jcpicco",
+  "license": "ISC",
+  "dependencies": {
+    "winston": "^3.8.2"
+  }
+}

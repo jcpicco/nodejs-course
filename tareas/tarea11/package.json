@@ -1,0 +1,12 @@
+{
+  "name": "tarea11",
+  "version": "1.0.0",
+  "description": "Tarea 11 sobre clases",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

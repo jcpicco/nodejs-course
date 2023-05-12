@@ -1,0 +1,12 @@
+// https://eslint.org/docs/latest/rules
+// Este es un ejemplo pero no se genera así
+
+{
+    "rules": {
+        "eqeqeq": "warn",
+        "strict": "off",
+        "quotes": ["warn", "double"],
+        "semi": ["error", "always"],
+        "no-dupe-keys": "error"
+    }
+}

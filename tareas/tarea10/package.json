@@ -1,0 +1,15 @@
+{
+  "name": "tarea10",
+  "version": "1.0.0",
+  "description": "Tarea 10 sobre módulos y librerías",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "jcpicco",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}

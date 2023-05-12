@@ -1,0 +1,11 @@
+{
+  "name": "tarea12",
+  "version": "1.0.0",
+  "description": "Tarea 12 sobre depuración",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "jcpicco",
+  "license": "ISC"
+}

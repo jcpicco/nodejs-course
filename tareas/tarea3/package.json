@@ -1,0 +1,14 @@
+{
+  "name": "tarea3",
+  "version": "1.0.0",
+  "description": "3. Estructuras de control",
+  "main": "index.js",
+  "scripts": {
+    "for": "node factorial-for.js",
+    "while": "node factorial-while.js",
+    "break": "node factorial-break.js",
+    "test": "node index.js"
+  },
+  "author": "jcpicco",
+  "license": "ISC"
+}

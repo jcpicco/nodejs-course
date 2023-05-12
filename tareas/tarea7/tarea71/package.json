@@ -1,0 +1,11 @@
+{
+  "name": "tarea71",
+  "version": "1.0.0",
+  "description": "Tarea 7 ejercicio 1 sobre conjuntos sets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jcpicco",
+  "license": "ISC"
+}

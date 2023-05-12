@@ -1,0 +1,1 @@
+// Con prompt() podemos sacar info de la consola. Nos metemos en about:blank de un navegador y ponemos prompt("Cuál es tu edad") y recuperamos la edad que añadamos. Esto puede asignarse a una variable también
